@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GilElbaz-code
-- 👀 I’m interested in Frontend and Backend development (especially python)/
+- 👀 I’m interested in Frontend and Backend development (especially python)
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - elbazg123@gmail.com / www.linkedin.com/in/‪gil-elbaz‬‏-0985701b6
