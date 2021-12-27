@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilElbaz-code
-- 👀 I’m interested in Frontend and Backend development (especially Python)
-- 🌱 I’m currently learning JavaScript and Data Analyst Course (Numpy & Pandas)
+- 👀 I’m interested in Data Analyst/Data Engineer roles.
+- 🌱 I’m currently learning MySQL and NumPy/Pandas.
 - 📫 How to reach me - elbazg123@gmail.com / www.linkedin.com/in/gilelbazlink
 
 <!---
