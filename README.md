@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilElbaz-code
 - 👀 I’m interested in Data Analyst/Data Engineer roles.
-- 🌱 I’m currently learning MySQL and NumPy/Pandas.
+- 🌱 I’m currently learning Tableau.
 - 📫 How to reach me - elbazg123@gmail.com / www.linkedin.com/in/gilelbazlink
 
 <!---
