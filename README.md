@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GilElbaz-code
+- 👋 Hi, I’m Gil Elbaz
 - 👀 I’m interested in Python Developer roles.
 - 🌱 I’m currently learning Python OOP.
 - 📫 How to reach me - elbazg123@gmail.com / www.linkedin.com/in/gilelbazlink
