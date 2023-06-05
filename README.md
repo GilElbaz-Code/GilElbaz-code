@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gil Elbaz
-- 👀 I’m interested in Python Developer roles.
-- 🌱 I’m currently learning Python OOP.
+- 👀 I’m interested in Python Developement roles.
+- 🌱 I’m currently learning Backend/Machine Learning/AI.
 - 📫 How to reach me - elbazg123@gmail.com / www.linkedin.com/in/gilelbazlink
 
 <!---
